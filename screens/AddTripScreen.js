@@ -28,7 +28,7 @@ export default function AddTripScreen() {
       <View className="flex justify-between h-full mx-4">
         <View>
             <View className="relative mt-5">
-                <View className="absolute top-0 left-0">
+                <View className="absolute top-2 left-0 z-10">
                   <BackButton />
                 </View>
 
